@@ -1,6 +1,6 @@
 # Carousel promotion strategy
 
-## Introduction
+## Introduction1
 - **Overview**: Dive into proven strategies for consistent Instagram growth without daily posts or relying on unpredictable algorithms.
 - **What's Covered**:
   - Strategies that didn't yield results.
