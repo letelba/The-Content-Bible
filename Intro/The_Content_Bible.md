@@ -1,5 +1,7 @@
 # The Content Bible
 
+The idea is to gather in one place everything that I learned about content creation and have this material available so you can cut a lot of corners and get to your goal.
+
 1. **Introduction**
     - Purpose of the Content Bible
     - Who should use this guide?

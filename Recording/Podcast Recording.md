@@ -4,4 +4,4 @@
 
 2. Put the mic off axis, so you don't hear the pop on the voice. 
 
-3. Have carpets and other cloths or acoustics panels to improve the sound. 
+3. Have carpets and other cloths or acoustics panels to improve the sound around the room.
